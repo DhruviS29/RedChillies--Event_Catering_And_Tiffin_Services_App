@@ -1,2 +1,5 @@
-# RedChillies--Event_Catering_And_Tiffin_Services_App
-This app is designed to streamline event catering and tiffin services for 2-tier and 3-tier cities. It offers a convenient platform for users to browse and book catering services for various events, as well as order tiffin meals for daily consumption.
+# RedChillies - Event Catering And Tiffin Services App (Android & Firebase)
+
+Technologies Used: Android, Firebase
+
+This project was developed to simplify the process of event catering and tiffin services, providing a user-friendly experience for both customers and service providers. The app aims to enhance convenience and efficiency in the catering industry, leveraging the power of Android and Firebase technologies.
